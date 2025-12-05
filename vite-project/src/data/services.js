@@ -1,20 +1,20 @@
 export const services = [
     {
       id: 1,
-      icon: "UX",
-      title: "Stratégie & recherche utilisateur",
-      description: "Audits, ateliers et tests pour transformer les besoins de vos clients en opportunités concrètes."
+      icon: "AI",
+      title: "IA sur mesure",
+      description: "Solutions d'intelligence artificielle conçues spécifiquement pour répondre aux défis et objectifs de votre entreprise."
     },
     {
       id: 2,
-      icon: "UI",
-      title: "Identité visuelle & design system",
-      description: "Une signature visuelle cohérente déclinée sur tous vos supports pour renforcer votre crédibilité."
+      icon: "DL",
+      title: "Deep Learning & Vision industrielle",
+      description: "Modèles de deep learning avancés et systèmes de vision par ordinateur pour le contrôle qualité, la détection de défauts et l'automatisation des processus."
     },
     {
       id: 3,
-      icon: "Web",
-      title: "Sites web et applications sur-mesure",
-      description: "Des expériences rapides, accessibles et optimisées pour la conversion, du prototype au produit live."
+      icon: "Agent",
+      title: "Agents IA sur mesure",
+      description: "Agents autonomes intelligents qui automatisent les tâches complexes, interagissent naturellement et s'adaptent à vos workflows."
     }
   ];

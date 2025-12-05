@@ -16,19 +16,19 @@
       "description": "Every project is unique, tailored to your specific needs.",
       "items": [
         {
-          "icon": "UX",
-          "title": "Strategy & User Research",
-          "description": "Audits, workshops and tests to turn your customers' needs into concrete opportunities."
+          "icon": "AI",
+          "title": "Custom AI Solutions",
+          "description": "Tailor-made artificial intelligence solutions designed specifically for your business challenges and goals."
         },
         {
-          "icon": "UI",
-          "title": "Visual Identity & Design System",
-          "description": "A consistent visual signature applied to all your supports to strengthen your credibility."
+          "icon": "DL",
+          "title": "Deep Learning & Industrial Vision",
+          "description": "Advanced deep learning models and computer vision systems for quality control, defect detection and process automation."
         },
         {
-          "icon": "Web",
-          "title": "Custom Websites and Applications",
-          "description": "Fast, accessible experiences optimized for conversion, from prototype to live product."
+          "icon": "Agent",
+          "title": "Custom AI Agents",
+          "description": "Intelligent autonomous agents that automate complex tasks, interact naturally and adapt to your workflows."
         }
       ]
     },
@@ -38,12 +38,19 @@
       "description": "Discover a selection of our latest projects and achievements with industry players who trust us.",
       "items": [
         {
-          "title": "Test Project",
-          "description": "If you see this card with shadow and style, Tailwind is working!"
+          "title": "Industrial Quality Control",
+          "description": "AI-powered visual inspection system detecting defects with 99.5% accuracy.",
+          "image": "https://images.unsplash.com/photo-1565043666747-69f6646db940?w=800&h=600&fit=crop"
         },
         {
-          "title": "Successful Configuration",
-          "description": "Congratulations, you've solved all dependency errors."
+          "title": "Predictive Maintenance",
+          "description": "Machine learning solution reducing equipment downtime by 40%.",
+          "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&h=600&fit=crop"
+        },
+        {
+          "title": "Conversational AI Agent",
+          "description": "Custom chatbot handling 80% of customer inquiries autonomously.",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=600&fit=crop"
         }
       ]
     },
@@ -105,19 +112,19 @@
       "description": "Chaque projet est unique, adapté à vos besoins spécifiques.",
       "items": [
         {
-          "icon": "UX",
-          "title": "Stratégie & recherche utilisateur",
-          "description": "Audits, ateliers et tests pour transformer les besoins de vos clients en opportunités concrètes."
+          "icon": "AI",
+          "title": "IA sur mesure",
+          "description": "Solutions d'intelligence artificielle conçues spécifiquement pour répondre aux défis et objectifs de votre entreprise."
         },
         {
-          "icon": "UI",
-          "title": "Identité visuelle & design system",
-          "description": "Une signature visuelle cohérente déclinée sur tous vos supports pour renforcer votre crédibilité."
+          "icon": "DL",
+          "title": "Deep Learning & Vision industrielle",
+          "description": "Modèles de deep learning avancés et systèmes de vision par ordinateur pour le contrôle qualité, la détection de défauts et l'automatisation des processus."
         },
         {
-          "icon": "Web",
-          "title": "Sites web et applications sur-mesure",
-          "description": "Des expériences rapides, accessibles et optimisées pour la conversion, du prototype au produit live."
+          "icon": "Agent",
+          "title": "Agents IA sur mesure",
+          "description": "Agents autonomes intelligents qui automatisent les tâches complexes, interagissent naturellement et s'adaptent à vos workflows."
         }
       ]
     },
@@ -127,12 +134,19 @@
       "description": "Découvrez une sélection de nos derniers projets et réalisations, avec des acteurs du monde industriel qui nous font confiance.",
       "items": [
         {
-          "title": "Projet Test",
-          "description": "test 1 2 3 Si vous voyez cette carte avec ombre et style, Tailwind fonctionne !"
+          "title": "Contrôle Qualité Industriel",
+          "description": "Système d'inspection visuelle par IA détectant les défauts avec une précision de 99.5%.",
+          "image": "https://images.unsplash.com/photo-1565043666747-69f6646db940?w=800&h=600&fit=crop"
         },
         {
-          "title": "Configuration réussie",
-          "description": "Bravo, tu as résolu toutes les erreurs de dépendances."
+          "title": "Maintenance Prédictive",
+          "description": "Solution de machine learning réduisant les temps d'arrêt des équipements de 40%.",
+          "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&h=600&fit=crop"
+        },
+        {
+          "title": "Agent IA Conversationnel",
+          "description": "Chatbot personnalisé gérant 80% des demandes clients de manière autonome.",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=600&fit=crop"
         }
       ]
     },
